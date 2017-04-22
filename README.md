@@ -1,4 +1,7 @@
-# api documentation for  [gulp-arialinter (v0.0.1)](https://github.com/Charca/gulp-arialinter)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-arialinter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-arialinter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-arialinter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-arialinter)
+# npmdoc-gulp-arialinter
+
+#### api documentation for  [gulp-arialinter (v0.0.1)](https://github.com/Charca/gulp-arialinter)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-arialinter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-arialinter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-arialinter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-arialinter)
+
 #### Gulp plugin for the accessibility tool AriaLinter
 
 [![NPM](https://nodei.co/npm/gulp-arialinter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-arialinter)
@@ -67,7 +70,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
